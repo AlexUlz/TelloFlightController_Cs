@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pdDiLJRCJz7gBtvH42KA5aJ8r6bJSGc8rsg8TQtX5ZVJKWRMPala6ASzb4qo9RpgWc0ZCxPmgBFQWT0iDUWL+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\OneDrive - Berufliche Schulen Groß-Gerau\\Documents\\GitHub\\Tello-Flight-Controller\\TelloFlightController\\TelloFlightController.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
